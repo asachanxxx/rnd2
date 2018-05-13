@@ -15,7 +15,12 @@ GIT COMMANDS
 	[git push -u origin master]	
 
 	git push --set-upstream origin master
+<<<<<<< HEAD
 
 asdasas
+=======
+	
+	this is on different branch
+>>>>>>> 46648c514920d54fd80d0e854c1e7b98cd7a3f33
 body
 html
