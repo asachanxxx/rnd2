@@ -1,0 +1,19 @@
+html lang=en
+head
+    titleHello from Team Servicestitle
+head
+body
+GIT COMMANDS
+
+    	[GIT init] - initialize new repository on selected Folder
+	[git commit -m "asad"] - put files and commit it . still not created any brainches
+ 
+	[git init]
+	[git add README.md]
+	[git commit -m "first commit"]
+	[git remote add origin https://github.com/asachanxxx/rnd2.git]
+	[git push -u origin master]	
+
+	git push --set-upstream origin master
+body
+html
